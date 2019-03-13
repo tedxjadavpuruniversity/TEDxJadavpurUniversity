@@ -1,2 +1,3 @@
-# TEDxJadavpurUniversity
+# TEDx JadavpurUniversity
+
 [WIP] Website
