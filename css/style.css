@@ -682,7 +682,7 @@ a {
   height: 400px; }
   @media (max-width: 991.98px) {
     .site-block-half .image {
-      margin-bottom: 50px; } }
+      margin-bottom: 0px; } }
 
 .site-block-half .text {
   padding: 15px; }
